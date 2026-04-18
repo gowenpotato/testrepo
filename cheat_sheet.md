@@ -1,3 +1,7 @@
+---
+title: Linux & Bash Cheat Sheet
+---
+
 # Linux & Bash Cheat Sheet
 
 A personal reference covering bash scripting, Linux internals, and networking.
